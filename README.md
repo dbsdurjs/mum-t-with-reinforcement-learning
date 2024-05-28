@@ -19,4 +19,4 @@
 
 ##### 헬기의 이동경로는 다익스트라 알고리즘, 드론의 이동경로는 Q-러닝 강화학습을 이용
 
-<img src ="./img/2d_reinforcement_learning.png>
+<img src ="./img/result_2d_reinforcement_learning.png>
